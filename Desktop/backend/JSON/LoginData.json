@@ -1,0 +1,68 @@
+{
+  "login": [
+    {
+      "name": "qqqqq",
+      "email": "qqq@gmail.com",
+      "password": "123",
+      "phone": "9875587865",
+      "id": "Lx6SN69-tvk"
+    },
+    {
+      "name": "sugesh",
+      "email": "sugesh@gmail.com",
+      "password": "123456",
+      "phone": "123456",
+      "icon": "./logo2.png",
+      "id": "iITUyNpv68k"
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "password": "123456",
+      "phone": "",
+      "icon": "./logo3.png",
+      "id": "_DUcmqEoErg"
+    },
+    {
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "password": "123456",
+      "phone": "",
+      "icon": "./logo4.png",
+      "id": "mOGjvMPwqQc"
+    },
+    {
+      "name": "Alqama",
+      "email": "alqama@gmail.com",
+      "password": "1234",
+      "phone": "123456",
+      "icon": "./logo1.png",
+      "id": "yJQsr7JF6lo"
+    },
+    {
+      "name": "",
+      "email": "sugesh@gmail.com",
+      "password": "123456",
+      "phone": "",
+      "icon": "./logo3.png",
+      "id": "JndpewwMbOY"
+    },
+    {
+      "name": "Mithil",
+      "email": "mithil@gmail.com",
+      "password": "123456",
+      "phone": "1478523699",
+      "icon": "./logo2.png",
+      "id": "X57srzqcNKE"
+    },
+    {
+      "name": "alqama",
+      "email": "alqama@gmail.com",
+      "password": "123456",
+      "phone": "123456789",
+      "icon": "./logo3.png",
+      "id": "Vq3JfzQDq8I"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

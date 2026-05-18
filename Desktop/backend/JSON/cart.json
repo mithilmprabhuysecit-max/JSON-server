@@ -1,0 +1,37 @@
+{
+  "cart": [
+    {
+      "id": "hvhS5Qdm_lM",
+      "name": "Smartphone",
+      "price": 20000,
+      "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zMV9waG90b19vZl9hX2xhcHRvcF9tb2NrdXBfY2xvc2UtdXBfbWluaW1hbF9pc182M2Q2NzViOS00YjlhLTQ3OWEtOGMyMS1hYWQwMjViNWYzZDIucG5n.png",
+      "offer": 0.1,
+      "userId": "ramu@gmail.com"
+    },
+    {
+      "id": "0GiZmwKIjZE",
+      "name": "Bluetooth Speaker",
+      "price": 2500,
+      "image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zMV9waG90b19vZl9hX2xhcHRvcF9tb2NrdXBfY2xvc2UtdXBfbWluaW1hbF9pc182M2Q2NzViOS00YjlhLTQ3OWEtOGMyMS1hYWQwMjViNWYzZDIucG5n.png",
+      "offer": 0.1,
+      "userId": "ramu@gmail.com"
+    },
+    {
+      "id": "Li42_U0QCkA",
+      "name": "Smartphone",
+      "price": 20000,
+      "image": "./smartphone.png",
+      "offer": 0.08,
+      "userId": "qqq@gmail.com"
+    },
+    {
+      "id": "5AsxEKSh5Xk",
+      "name": "Smartphone",
+      "price": 20000,
+      "image": "./smartphone.png",
+      "offer": 0.08,
+      "userId": "sugesh@gmail.com"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

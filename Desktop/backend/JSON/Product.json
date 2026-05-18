@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 50000,
+      "image": "./laptop.png",
+      "offer": 0.13,
+      "description": "A powerful laptop built for speed and multitasking. Perfect for work, study, and entertainment.",
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Jeans",
+      "price": 1200,
+      "image": "./jeans.png",
+      "offer": 0.15,
+      "description": "Durable denim jeans with classic design. Perfect for casual outings and daily wear.",
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Refrigerator",
+      "price": 25000,
+      "image": "./refrigarator.png",
+      "offer": 0.18,
+      "description": "Spacious refrigerator with energy efficiency. Keeps food fresh and cool longer.",
+      "category": "HomeAppliances"
+    },
+    {
+      "id": 4,
+      "name": "Football",
+      "price": 900,
+      "image": "./football.png",
+      "offer": 0.12,
+      "description": "Durable football for outdoor play. Great grip and bounce for matches.",
+      "category": "Sports"
+    },
+    {
+      "id": 5,
+      "name": "Novel",
+      "price": 400,
+      "image": "./novel.jpg",
+      "offer": 0.05,
+      "description": "Engaging novel with thrilling storyline. Perfect companion for leisure reading.",
+      "category": "Books"
+    },
+    {
+      "id": 6,
+      "name": "Chair",
+      "price": 2500,
+      "image": "./chair.png",
+      "offer": 0.2,
+      "description": "Comfortable wooden chair with sturdy build. Ideal for home and office use.",
+      "category": "Furniture"
+    },
+    {
+      "id": 7,
+      "name": "Puzzle",
+      "price": 400,
+      "image": "./puzzle.png",
+      "offer": 0.12,
+      "description": "Challenging puzzle game for all ages. Improves focus and problem solving.",
+      "category": "Toys"
+    },
+    {
+      "id": 8,
+      "name": "Smartphone",
+      "price": 20000,
+      "image": "./smartphone.png",
+      "offer": 0.08,
+      "description": "A sleek smartphone with modern features. Stay connected with fast performance and clear display.",
+      "category": "Electronics"
+    },
+    {
+      "id": 9,
+      "name": "Jacket",
+      "price": 2500,
+      "image": "./jacket.png",
+      "offer": 0.2,
+      "description": "Warm jacket with stylish look. Great for winter and outdoor wear.",
+      "category": "Clothing"
+    },
+    {
+      "id": 10,
+      "name": "Washing Machine",
+      "price": 20000,
+      "image": "./washing.png",
+      "offer": 0.2,
+      "description": "Automatic washing machine with multiple modes. Saves time and effort.",
+      "category": "HomeAppliances"
+    },
+    {
+      "id": 11,
+      "name": "Cricket Bat",
+      "price": 1500,
+      "image": "./bat.png",
+      "offer": 0.18,
+      "description": "Strong cricket bat for practice and matches. Lightweight and durable.",
+      "category": "Sports"
+    },
+    {
+      "id": 12,
+      "name": "Science Book",
+      "price": 600,
+      "image": "./science.png",
+      "offer": 0.08,
+      "description": "Explains scientific concepts in simple language. Perfect for learners of all ages.",
+      "category": "Books"
+    },
+    {
+      "id": 13,
+      "name": "Table",
+      "price": 4000,
+      "image": "./table.png",
+      "offer": 0.15,
+      "description": "Strong wooden table with modern design. Perfect for dining or study.",
+      "category": "Furniture"
+    },
+    {
+      "id": 14,
+      "name": "Doll",
+      "price": 600,
+      "image": "./doll.png",
+      "offer": 0.15,
+      "description": "Cute doll with colorful dress. Perfect gift for children.",
+      "category": "Toys"
+    },
+    {
+      "id": 15,
+      "name": "Headphones",
+      "price": 3000,
+      "image": "./headphone.png",
+      "offer": 0.16,
+      "description": "Comfortable headphones with crisp sound. Enjoy music and calls with noise cancellation.",
+      "category": "Electronics"
+    },
+    {
+      "id": 16,
+      "name": "Microwave Oven",
+      "price": 8000,
+      "image": "./microwave.png",
+      "offer": 0.15,
+      "description": "Compact microwave oven for quick cooking. Easy to use and clean.",
+      "category": "HomeAppliances"
+    },
+    {
+      "id": 17,
+      "name": "Basketball",
+      "price": 1200,
+      "image": "./basketball.png",
+      "offer": 0.1,
+      "description": "High-quality basketball with great bounce. Suitable for indoor and outdoor play.",
+      "category": "Sports"
+    },
+    {
+      "id": 18,
+      "name": "Toy Car",
+      "price": 500,
+      "image": "./toycar.png",
+      "offer": 0.1,
+      "description": "Mini toy car with smooth wheels. Fun for kids to play indoors.",
+      "category": "Toys"
+    },
+    {
+      "id": 19,
+      "name": "Smartwatch",
+      "price": 7000,
+      "image": "./smartwatch.png",
+      "offer": 0.32,
+      "description": "Track fitness and notifications on the go. Stylish design with long battery life.",
+      "category": "Electronics"
+    },
+    {
+      "id": 20,
+      "name": "Sofa",
+      "price": 15000,
+      "image": "./sofa.png",
+      "offer": 0.25,
+      "description": "Comfortable sofa with soft cushions. Adds elegance to your living room.",
+      "category": "Furniture"
+    },
+    {
+      "id": 21,
+      "name": "Camera",
+      "price": 35000,
+      "image": "./camera.png",
+      "offer": 0.27,
+      "description": "Capture sharp photos and videos. Reliable performance for beginners and pros.",
+      "category": "Electronics"
+    },
+    {
+      "id": 22,
+      "name": "Novel",
+      "price": 400,
+      "image": "./novel.jpg",
+      "offer": 0.05,
+      "description": "Engaging novel with thrilling storyline. Perfect companion for leisure reading.",
+      "category": "Books"
+    },
+    {
+      "id": 23,
+      "name": "Bluetooth Speaker",
+      "price": 2500,
+      "image": "./btspeaker.webp",
+      "offer": 0.05,
+      "description": "Compact speaker with rich sound. Wireless and easy to carry anywhere.",
+      "category": "Electronics"
+    },
+    {
+      "id": 24,
+      "name": "Gaming Console",
+      "price": 40000,
+      "image": "./gaming.png",
+      "offer": 0.21,
+      "description": "High‑performance console for immersive gaming. Play the latest titles with stunning graphics.",
+      "category": "Electronics"
+    },
+    {
+      "id": 25,
+      "name": "Mouse",
+      "price": 800,
+      "image": "./mouse.png",
+      "offer": 0.04,
+      "description": "Ergonomic mouse with smooth control. Ideal for daily use and gaming.",
+      "category": "Electronics"
+    },
+    {
+      "id": 26,
+      "name": "Table",
+      "price": 4000,
+      "image": "./table.png",
+      "offer": 0.15,
+      "description": "Strong wooden table with modern design. Perfect for dining or study.",
+      "category": "Furniture"
+    },
+    {
+      "id": 27,
+      "name": "Toy Car",
+      "price": 500,
+      "image": "./toycar.png",
+      "offer": 0.1,
+      "description": "Mini toy car with smooth wheels. Fun for kids to play indoors.",
+      "category": "Toys"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
